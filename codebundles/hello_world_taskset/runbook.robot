@@ -1,6 +1,6 @@
 *** Settings ***
 Metadata          Author    My Name
-Documentation     This is a hello world codebundle!
+Documentation     This is a hello world codebundle!!
 Force Tags    Hello    World    Test
 Library    RW.Core
 Suite Setup       Suite Initialization
